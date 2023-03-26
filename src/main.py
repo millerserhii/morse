@@ -62,7 +62,7 @@ def main():
         print(morse_code)
         play_morse_code(morse_code)
     else:
-        print("Usage: python morse_code_translator.py <text to translate>")
+        print("Usage: python main.py <text to translate>")
 
 
 
