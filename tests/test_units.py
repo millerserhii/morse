@@ -6,7 +6,7 @@ def test_english_to_morse_code():
         ("Hello World", ".... . .-.. .-.. --- / .-- --- .-. .-.. -.."),
         ("SOS", "... --- ..."),
         ("abc123", ".- -... -.-. .---- ..--- ...--"),
-        ("OpenAI", "--- .--. . -. .- .."),
+        ("fun project", "..-. ..- -. / .--. .-. --- .--- . -.-. -"),
     ]
 
     for text, expected in test_cases:
